@@ -1,1 +1,1 @@
-# QR-Scanner-Project
+# QR-Attendance Scanner-Project
